@@ -1,0 +1,5 @@
+name: nateevo_countries
+type: module
+description: Prueba drupal modulo personalizado
+package: custom
+core_version_requirement: ^9
